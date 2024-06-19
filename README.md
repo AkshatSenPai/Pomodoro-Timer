@@ -39,5 +39,5 @@ To run this project, you need a modern web browser (e.g., Chrome, Firefox, Edge,
 2. **Stop the Timer:** Click the "Stop" button to pause the timer.
 3. **Reset the Timer:** Click the "Reset" button to reset the timer to the default 25-minute countdown.
 
-## Project Structure
+
 
